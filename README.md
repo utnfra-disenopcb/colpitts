@@ -26,8 +26,7 @@ El proyecto consiste en el desarrollo de un oscilador de frecuencia variable, de
 **Versión 1.0**
 - Primera versión.
 
-## Mejoras pendientes v1.2
+## Mejoras pendientes v1.1
 - Mejora 1
 - Mejora 2
 - Mejora 3
-
