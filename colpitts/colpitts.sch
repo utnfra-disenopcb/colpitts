@@ -467,8 +467,6 @@ Wire Wire Line
 	2050 4950 1500 4950
 Text Label 6050 4250 2    79   Italic 16
 Vout
-Text Label 1500 4950 0    50   ~ 0
-Vcontrol
 $Comp
 L power:GND #PWR0109
 U 1 1 5CF356E1
@@ -913,4 +911,8 @@ Connection ~ 2750 1600
 Wire Wire Line
 	3250 1600 3250 1500
 Connection ~ 3250 1600
+Text Notes 3950 2150 0    118  ~ 24
+Oscilador Colpitts de frecuencia variable (80MHz a 100 MHz)\n\nPendientes:\n- Asignación de huellas a símbolos\n- Generación de listado de redes (netlist)\n- Generación de listado de materiales (BOM)
+Text Label 1500 4950 0    50   ~ 0
+Vcontrol
 $EndSCHEMATC

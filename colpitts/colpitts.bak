@@ -851,10 +851,10 @@ F 3 "" H 3250 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG?
+L power:PWR_FLAG #FLG0101
 U 1 1 5D007D00
 P 3000 2100
-F 0 "#FLG?" H 3000 2175 50  0001 C CNN
+F 0 "#FLG0101" H 3000 2175 50  0001 C CNN
 F 1 "PWR_FLAG" H 3000 2273 50  0000 C CNN
 F 2 "" H 3000 2100 50  0001 C CNN
 F 3 "~" H 3000 2100 50  0001 C CNN
@@ -862,10 +862,10 @@ F 3 "~" H 3000 2100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG?
+L power:PWR_FLAG #FLG0102
 U 1 1 5D008F68
 P 3250 1500
-F 0 "#FLG?" H 3250 1575 50  0001 C CNN
+F 0 "#FLG0102" H 3250 1575 50  0001 C CNN
 F 1 "PWR_FLAG" H 3250 1673 50  0000 C CNN
 F 2 "" H 3250 1500 50  0001 C CNN
 F 3 "~" H 3250 1500 50  0001 C CNN
@@ -877,10 +877,10 @@ Wire Wire Line
 Wire Wire Line
 	2750 1400 2750 1100
 $Comp
-L power:PWR_FLAG #FLG?
+L power:PWR_FLAG #FLG0103
 U 1 1 5D007236
 P 3000 950
-F 0 "#FLG?" H 3000 1025 50  0001 C CNN
+F 0 "#FLG0103" H 3000 1025 50  0001 C CNN
 F 1 "PWR_FLAG" H 3000 1123 50  0000 C CNN
 F 2 "" H 3000 950 50  0001 C CNN
 F 3 "~" H 3000 950 50  0001 C CNN
@@ -913,4 +913,6 @@ Connection ~ 2750 1600
 Wire Wire Line
 	3250 1600 3250 1500
 Connection ~ 3250 1600
+Text Notes 3950 2150 0    118  ~ 24
+Oscilador Colpitts de frecuencia variable (80MHz a 100 MHz)\n\nPendientes:\n- Asignación de huellas a símbolos\n- Generación de listado de redes (netlist)\n- Generación de listado de materiales (BOM)
 $EndSCHEMATC
