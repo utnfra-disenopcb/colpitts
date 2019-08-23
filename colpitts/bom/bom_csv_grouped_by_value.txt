@@ -1,0 +1,2 @@
+1. Utilizar BOM plugin "bom_csv_grouped_by_value".
+2. Abrir archivo con Excel, y convertir desde archivo separado por comas (csv) hacia archivo excel (en columnas).

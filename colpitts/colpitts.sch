@@ -117,7 +117,10 @@ P 3900 3950
 F 0 "Q102" H 4090 3996 50  0000 L CNN
 F 1 "2N3904" H 4090 3905 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4100 3875 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3900 3950 50  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" H 3900 3950 50  0001 L CNN
+F 4 "TRANS NPN 40V 0.2A TO-92" H 3900 3950 50  0001 C CNN "Description"
+F 5 "2N3904FS-ND" H 3900 3950 50  0001 C CNN "DigiKey PN"
+F 6 "2N3904BU" H 3900 3950 50  0001 C CNN "Manf PN"
 	1    3900 3950
 	1    0    0    -1  
 $EndComp
@@ -228,7 +231,10 @@ P 3900 4950
 F 0 "Q103" H 4090 4996 50  0000 L CNN
 F 1 "2N3904" H 4090 4905 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4100 4875 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3900 4950 50  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" H 3900 4950 50  0001 L CNN
+F 4 "TRANS NPN 40V 0.2A TO-92" H 3900 4950 50  0001 C CNN "Description"
+F 5 "2N3904FS-ND" H 3900 4950 50  0001 C CNN "DigiKey PN"
+F 6 "2N3904BU" H 3900 4950 50  0001 C CNN "Manf PN"
 	1    3900 4950
 	1    0    0    -1  
 $EndComp
@@ -239,7 +245,10 @@ P 3400 5450
 F 0 "Q101" H 3590 5496 50  0000 L CNN
 F 1 "2N3904" H 3590 5405 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 3600 5375 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3400 5450 50  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" H 3400 5450 50  0001 L CNN
+F 4 "TRANS NPN 40V 0.2A TO-92" H 3400 5450 50  0001 C CNN "Description"
+F 5 "2N3904FS-ND" H 3400 5450 50  0001 C CNN "DigiKey PN"
+F 6 "2N3904BU" H 3400 5450 50  0001 C CNN "Manf PN"
 	1    3400 5450
 	1    0    0    -1  
 $EndComp
@@ -359,7 +368,10 @@ P 5000 3950
 F 0 "C109" H 5125 3950 50  0000 L CNN
 F 1 "TRIM VERDE (5.2pF-30pF)" H 4525 4575 50  0000 L CNN
 F 2 "colpitts:Trimmer_Capacitor_Verde" H 5000 3950 50  0001 C CNN
-F 3 "~" H 5000 3950 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Murata%20PDFs/Ceramic_Trimmer_Cap_Cat.pdf#page=34" H 5000 3950 50  0001 C CNN
+F 4 "CAP TRIMMER 5.2-30PF 100V TH" H 5000 3950 50  0001 C CNN "Description"
+F 5 "490-1960-ND" H 5000 3950 50  0001 C CNN "DigiKey PN"
+F 6 "TZ03R300E169B00" H 5000 3950 50  0001 C CNN "Manf PN"
 	1    5000 3950
 	1    0    0    -1  
 $EndComp
@@ -446,7 +458,10 @@ P 6250 4250
 F 0 "J102" H 6350 4225 50  0000 L CNN
 F 1 "BNC" H 6350 4134 50  0000 L CNN
 F 2 "colpitts:BNC_Conn_Horizontal" H 6250 4250 50  0001 C CNN
-F 3 " ~" H 6250 4250 50  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227161&DocType=Customer+Drawing&DocLang=English" H 6250 4250 50  0001 C CNN
+F 4 "CONN BNC JACK R/A 50 OHM PCB" H 6250 4250 50  0001 C CNN "Description"
+F 5 "A32244-ND" H 6250 4250 50  0001 C CNN "DigiKey PN"
+F 6 "5227161-1" H 6250 4250 50  0001 C CNN "Manf PN"
 	1    6250 4250
 	1    0    0    -1  
 $EndComp
@@ -511,7 +526,10 @@ P 7400 3500
 F 0 "Q104" H 7590 3546 50  0000 L CNN
 F 1 "2N3904" H 7590 3455 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7600 3425 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7400 3500 50  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" H 7400 3500 50  0001 L CNN
+F 4 "TRANS NPN 40V 0.2A TO-92" H 7400 3500 50  0001 C CNN "Description"
+F 5 "2N3904FS-ND" H 7400 3500 50  0001 C CNN "DigiKey PN"
+F 6 "2N3904BU" H 7400 3500 50  0001 C CNN "Manf PN"
 	1    7400 3500
 	1    0    0    -1  
 $EndComp
@@ -659,6 +677,9 @@ F 0 "U101" H 9650 4000 50  0000 L CNN
 F 1 "LM741" H 9650 3900 50  0000 L CNN
 F 2 "Package_DIP:DIP-8_W10.16mm" H 9750 3750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm741.pdf" H 9850 3850 50  0001 C CNN
+F 4 "IC OPAMP GP 1 CIRCUIT 8DIP" H 9700 3700 50  0001 C CNN "Description"
+F 5 "LM741CNNS/NOPB-ND" H 9700 3700 50  0001 C CNN "DigiKey PN"
+F 6 "LM741CN/NOPB" H 9700 3700 50  0001 C CNN "Manf PN"
 	1    9700 3700
 	1    0    0    -1  
 $EndComp
@@ -781,7 +802,10 @@ P 2500 1600
 F 0 "J101" H 2450 1150 50  0000 C CNN
 F 1 "BORNERA" H 2450 1250 50  0000 C CNN
 F 2 "colpitts:TerminalBlock_1x04_P5.00mm" H 2500 1600 50  0001 C CNN
-F 3 "~" H 2500 1600 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935187.pdf" H 2500 1600 50  0001 C CNN
+F 4 "TERM BLK 4POS SIDE ENTRY 5MM PCB" H 2500 1600 50  0001 C CNN "Description"
+F 5 "277-1579-ND" H 2500 1600 50  0001 C CNN "DigiKey PN"
+F 6 "1935187" H 2500 1600 50  0001 C CNN "Manf PN"
 	1    2500 1600
 	-1   0    0    1   
 $EndComp

@@ -911,8 +911,8 @@ Connection ~ 2750 1600
 Wire Wire Line
 	3250 1600 3250 1500
 Connection ~ 3250 1600
-Text Notes 3950 2150 0    118  ~ 24
-Oscilador Colpitts de frecuencia variable (80MHz a 100 MHz)\n\nPendientes:\n- Generación de listado de redes (netlist)\n- Generación de listado de materiales (BOM)
+Text Notes 3950 1600 0    118  ~ 24
+Oscilador Colpitts de frecuencia variable (80MHz a 100 MHz)\n\nPendientes:\n- Generación de listado de materiales (BOM)
 Text Label 1500 4950 0    50   ~ 0
 Vcontrol
 $EndSCHEMATC
