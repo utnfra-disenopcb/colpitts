@@ -1,4 +1,4 @@
-15770663195580178
+15775367999679382
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -5911,6 +5911,34 @@ Capacitor_THT
 C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
 C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
 C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
+0
+2
+2
+colpitts
+BNC_Conn_Horizontal
+http://www.farnell.com/datasheets/612848.pdf
+BNC Amphenol Horizontal
+0
+4
+2
+colpitts
+Preset_Multivuelta
+Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer horizontal Bourns 3386C
+0
+3
+3
+colpitts
+TerminalBlock_1x04_P5.00mm
+terminal block RND 205-00003, 4 pins, pitch 5mm, size 20x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00003 pitch 5mm size 20x9mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+colpitts
+Trimmer_Capacitor_Verde
+
+
 0
 2
 2
@@ -70181,13 +70209,6 @@ transformer flyback
 0
 10
 10
-UC20-G
-XCVR_UC20
-
-
-0
-100
-100
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
