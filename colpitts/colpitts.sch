@@ -935,8 +935,118 @@ Connection ~ 2750 1600
 Wire Wire Line
 	3250 1600 3250 1500
 Connection ~ 3250 1600
-Text Notes 3950 1600 0    118  ~ 24
-Oscilador Colpitts de frecuencia variable (80MHz a 100 MHz)\n\nPendientes:\n- Generación de listado de materiales (BOM)
 Text Label 1500 4950 0    50   ~ 0
 Vcontrol
+$Comp
+L Mechanical:MountingHole H102
+U 1 1 5D64AAE2
+P 2200 6750
+F 0 "H102" H 2300 6796 50  0000 L CNN
+F 1 "MountingHole" H 2300 6705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 2200 6750 50  0001 C CNN
+F 3 "~" H 2200 6750 50  0001 C CNN
+	1    2200 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H103
+U 1 1 5D64BDE5
+P 2200 7000
+F 0 "H103" H 2300 7046 50  0000 L CNN
+F 1 "MountingHole" H 2300 6955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 2200 7000 50  0001 C CNN
+F 3 "~" H 2200 7000 50  0001 C CNN
+	1    2200 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H104
+U 1 1 5D64C1E4
+P 2200 7250
+F 0 "H104" H 2300 7296 50  0000 L CNN
+F 1 "MountingHole" H 2300 7205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 2200 7250 50  0001 C CNN
+F 3 "~" H 2200 7250 50  0001 C CNN
+	1    2200 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID101
+U 1 1 5D64C73B
+P 3000 6500
+F 0 "FID101" H 3085 6546 50  0000 L CNN
+F 1 "Fiducial" H 3085 6455 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 3000 6500 50  0001 C CNN
+F 3 "~" H 3000 6500 50  0001 C CNN
+	1    3000 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID102
+U 1 1 5D64D3CD
+P 3000 6750
+F 0 "FID102" H 3085 6796 50  0000 L CNN
+F 1 "Fiducial" H 3085 6705 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 3000 6750 50  0001 C CNN
+F 3 "~" H 3000 6750 50  0001 C CNN
+	1    3000 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID103
+U 1 1 5D64DC22
+P 3000 7000
+F 0 "FID103" H 3085 7046 50  0000 L CNN
+F 1 "Fiducial" H 3085 6955 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 3000 7000 50  0001 C CNN
+F 3 "~" H 3000 7000 50  0001 C CNN
+	1    3000 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID105
+U 1 1 5D64E59B
+P 3500 6750
+F 0 "FID105" H 3585 6796 50  0000 L CNN
+F 1 "Fiducial" H 3585 6705 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 3500 6750 50  0001 C CNN
+F 3 "~" H 3500 6750 50  0001 C CNN
+	1    3500 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID106
+U 1 1 5D64E82A
+P 3500 7000
+F 0 "FID106" H 3585 7046 50  0000 L CNN
+F 1 "Fiducial" H 3585 6955 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 3500 7000 50  0001 C CNN
+F 3 "~" H 3500 7000 50  0001 C CNN
+	1    3500 7000
+	1    0    0    -1  
+$EndComp
+Text Notes 3950 2100 0    118  ~ 24
+Oscilador Colpitts de frecuencia variable (80MHz a 100 MHz)
+$Comp
+L Mechanical:MountingHole H101
+U 1 1 5D64C32C
+P 2200 6500
+F 0 "H101" H 2300 6546 50  0000 L CNN
+F 1 "MountingHole" H 2300 6455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 2200 6500 50  0001 C CNN
+F 3 "~" H 2200 6500 50  0001 C CNN
+	1    2200 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID104
+U 1 1 5D64E2FA
+P 3500 6500
+F 0 "FID104" H 3585 6546 50  0000 L CNN
+F 1 "Fiducial" H 3585 6455 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 3500 6500 50  0001 C CNN
+F 3 "~" H 3500 6500 50  0001 C CNN
+	1    3500 6500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
