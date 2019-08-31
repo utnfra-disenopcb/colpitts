@@ -1,0 +1,34 @@
+### Module positions - created on 30/8/2019 22:48:23 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C101      1nF       C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -6.8580    21.3360  270.0000  top
+C102      1nF       C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -6.8580    16.5100  270.0000  top
+C103      10nF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -4.3180    21.3360  270.0000  top
+C104      10nF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -4.3180    16.5100  270.0000  top
+C105      100nF     C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -1.7780    21.3450  270.0000  top
+C106      100nF     C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -1.7780    16.5100  270.0000  top
+C107      15pF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    12.1920    18.0340  270.0000  top
+C108      68pF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    12.1920    13.7160  270.0000  top
+C110      10pF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    27.9400    18.0340  270.0000  top
+C111      33pF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    27.9400    13.7160  270.0000  top
+C112      100nF     C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    32.2580    19.0500  180.0000  top
+C113      10nF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    40.8940    17.2720   90.0000  top
+C114      100pF     C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    50.2920    11.4300   90.0000  top
+C115      100nF     C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    38.3540    27.6860   90.0000  top
+FID101    Fiducial  Fiducial_1mm_Mask2mm                            0.0000     0.0000    0.0000  top
+FID102    Fiducial  Fiducial_1mm_Mask2mm                            0.0000    33.0200    0.0000  top
+FID103    Fiducial  Fiducial_1mm_Mask2mm                           49.5300    33.0200    0.0000  top
+R101      3.9K      R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    19.3130     9.5250  180.0000  top
+R102      10K       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     0.7620    21.3360  270.0000  top
+R103      10K       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     0.7620    16.5100  270.0000  top
+R104      330       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     1.1430     9.3980  180.0000  top
+R105      330       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     1.1430    11.9380    0.0000  top
+R106      10K       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    35.8140    17.2720   90.0000  top
+R107      5.6K      R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    38.3540    17.2720   90.0000  top
+R108      1K        R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    40.8940    27.6860   90.0000  top
+R109      1K        R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    48.0060    11.4300  270.0000  top
+R110      1K        R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    52.5780    11.4300   90.0000  top
+R111      1K        R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    43.4340    27.6860  270.0000  top
+## End
